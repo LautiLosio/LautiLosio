@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LautiLosio
-- 👀 I’m interested in QA, AI, UX UI
+- 👀 I’m interested in QA, AI, UX UI, Frontend, React and more...
 - 🌱 Currently studying Systems Engineering and working at Wibond
 - 📫 You can reach me at lautarolosio@gmail.com
