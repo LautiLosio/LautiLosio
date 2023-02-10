@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Wibond**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Front End Engineering**
 
 - 📫 How to reach me **lautarolosio+github@gmail.com**
 
