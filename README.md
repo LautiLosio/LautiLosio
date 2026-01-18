@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lauti</h1>
 <h3 align="center">I love open-source</h3>
 
-- 🔭 I’m currently working at **Wibond**
+- 🔭 I’m currently working at **Naranja X** as a SSr Frontend Engineer
 
-- 🌱 I’m currently learning **Front End Engineering**
+- 🌱 I’m learning **Backend and Full Stack** development
 
-- 📫 How to reach me **lautarolosio+github@gmail.com**
+- 👀 Feel free to look around my public repos
 
-- ⚡ Fun fact **I love 🥔**
+- 📫 You ca reach me at: **lautarolosio+github@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
