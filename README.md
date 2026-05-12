@@ -7,7 +7,7 @@
 
 - 👀 Feel free to look around my public repos
 
-- 📫 You ca reach me at: **lautarolosio+github@gmail.com**
+- 📫 You can reach me at: **lautarolosio+github@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
