@@ -1,25 +1,40 @@
-<h1 align="center">Hi 👋, I'm Lauti</h1>
-<h3 align="center">I love open-source</h3>
+<h1 align="center">Hi, I'm Lauti</h1>
+<h3 align="center">Frontend engineer, product-minded builder, and open-source enjoyer</h3>
 
-- 🔭 I’m currently working at **Naranja X** as a SSr Frontend Engineer
+I'm a SSr Frontend Engineer at **Naranja X**, where I mostly work with Angular, TypeScript, microfrontends, design systems, and internal banking tools.
 
-- 🌱 I’m learning **Backend and Full Stack** development
+Outside work, I like building small useful products and developer tools: CLI helpers, browser extensions, Raycast utilities, AI experiments, and web apps with Next.js.
 
+- 🔭 Currently working at **Naranja X**
+- 🧩 Most comfortable with **TypeScript, Angular, React, Next.js, and frontend architecture**
+- 🛠️ I enjoy building tools that remove friction from everyday workflows
+- 🌱 Learning more about **backend, full-stack product development, AI integrations, and automation**
 - 👀 Feel free to look around my public repos
+- 📫 Reach me at **lautarolosio+github@gmail.com**
 
-- 📫 You can reach me at: **lautarolosio+github@gmail.com**
+<h3 align="left">Connect with me</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lauti_losio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lauti_losio" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lautaro-losio/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lautaro-losio/" height="30" width="40" /></a>
-<a href="https://codepen.io/LautiLosio" target="_blank"><img align="center" src="https://seeklogo.com/images/C/codepen-logo-1B85489666-seeklogo.com.png" alt="@lautilosio" height="30" width="30"/></a>
-<a href="https://t.me/lautilosio" target="_blank"><img align="center" src="https://cdn.cdnlogo.com/logos/t/84/telegram.svg" alt="@lautilosio" height="30" width="40"/></a>
+  <a href="https://twitter.com/lauti_losio" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/lautaro-losio/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://codepen.io/LautiLosio" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>
+  <a href="https://t.me/lautilosio" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages and tools</h3>
 
-<h3 align="left">Certificates:</h3>
-<a href="https://www.coderhouse.com/ar/certificados/636bed28bff176000e844cc5" target="_blank">React Frontend Developer</a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,angular,react,nextjs,nodejs,html,css,sass,tailwind,bootstrap,git,bash,linux,python,mysql,figma,postman,android" alt="Languages and tools" />
+</p>
 
+<h3 align="left">Certificate</h3>
+
+- <a href="https://www.coderhouse.com/ar/certificados/636bed28bff176000e844cc5" target="_blank">React Frontend Developer</a>
